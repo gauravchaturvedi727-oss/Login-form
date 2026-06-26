@@ -59,13 +59,13 @@ Modern-Login-Form/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/gauravchaturvedi727-oss/Modern-Login-Form.git
+git clone https://github.com/gauravchaturvedi727-oss/Login-form.git
 ```
 
 2. Open the project folder
 
 ```bash
-cd Modern-Login-Form
+cd Login-form
 ```
 
 3. Open `index.html`
