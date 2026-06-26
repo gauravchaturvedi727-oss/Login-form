@@ -50,7 +50,6 @@ Modern-Login-Form/
 ├── style.css
 ├── script.js
 ├── README.md
-└── images/
 ```
 
 ---
